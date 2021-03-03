@@ -1,6 +1,9 @@
-# COVID-19 Result Checking Script
+# Ontario COVID-19 Result Checking Script
 
-A more automated way of checking your COVID-19 results at https://covid19results.ehealthontario.ca/
+A more automated way of checking your COVID-19 results at https://covid19results.ehealthontario.ca:4443/
+
+Tired of filling out the results form every time you want to check? Now you can "refresh" to your
+heart's content.
 
 ## Dependencies
 
