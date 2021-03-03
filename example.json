@@ -1,0 +1,10 @@
+{
+    "healthCardNumber": "{{OHIP Number}}",
+    "healthCardVersionCode": "{{ OHIP Version Code}}",
+    "stockControlNumber": "{{ Stock Control Number on back}}",
+    "firstName": "{{ First Name }}",
+    "lastName": "{{ Last Name }}",
+    "dateOfBirth": "{{ Date of birth in YYYY-MM-DD format}}",
+    "gender": "{{ Gender (male, female, or other) }}",
+    "postalCode": "{{ Postal Code in A1A 1A1 format }}"
+}

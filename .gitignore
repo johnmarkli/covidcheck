@@ -1,0 +1,5 @@
+# Ignore all json
+*.json
+
+# Except
+!example.json
